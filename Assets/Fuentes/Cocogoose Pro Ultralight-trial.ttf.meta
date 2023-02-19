@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 85c4dae37d64f284194b55300bdbd4d7
+guid: 737830774ee5d894bbfa6acaabefb4e1
 TrueTypeFontImporter:
   externalObjects: {}
   serializedVersion: 4
@@ -9,7 +9,7 @@ TrueTypeFontImporter:
   characterPadding: 1
   includeFontData: 1
   fontNames:
-  - Vraoum
+  - 'COCOGOOSE '
   fallbackFontReferences: []
   customCharacters: 
   fontRenderingMode: 0

@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: eee41a3797cd1c144acb126090d253fb
+guid: 5f3b1375669ace247ae08998b1b0ea1e
 TrueTypeFontImporter:
   externalObjects: {}
   serializedVersion: 4
@@ -9,7 +9,7 @@ TrueTypeFontImporter:
   characterPadding: 1
   includeFontData: 1
   fontNames:
-  - Saint Carell Clean PERSONAL
+  - Berlin Sans FB Demi
   fallbackFontReferences: []
   customCharacters: 
   fontRenderingMode: 0

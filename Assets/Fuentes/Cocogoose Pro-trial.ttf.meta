@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: a9d82a63d16afe04e8674dcf0ae454e5
+guid: 92dc9576524de354ba5dc2257b5cd577
 TrueTypeFontImporter:
   externalObjects: {}
   serializedVersion: 4
@@ -9,7 +9,7 @@ TrueTypeFontImporter:
   characterPadding: 1
   includeFontData: 1
   fontNames:
-  - Vertigo
+  - Cocogoose
   fallbackFontReferences: []
   customCharacters: 
   fontRenderingMode: 0

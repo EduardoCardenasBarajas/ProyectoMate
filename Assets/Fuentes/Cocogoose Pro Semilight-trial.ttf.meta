@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 6fad2fdcd4de21a47b57f69de69ed7b9
+guid: 8026c8d8d25b06d4998cd4411917c709
 TrueTypeFontImporter:
   externalObjects: {}
   serializedVersion: 4
@@ -9,7 +9,7 @@ TrueTypeFontImporter:
   characterPadding: 1
   includeFontData: 1
   fontNames:
-  - Saint Carell PERSONAL
+  - COCOGOOSE
   fallbackFontReferences: []
   customCharacters: 
   fontRenderingMode: 0

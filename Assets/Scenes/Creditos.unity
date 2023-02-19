@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 705507994}
-  m_IndirectSpecularColor: {r: 0.44657844, g: 0.49641222, b: 0.57481694, a: 1}
+  m_IndirectSpecularColor: {r: 0.18028378, g: 0.22571412, b: 0.30692285, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -174,7 +174,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.972549, g: 0.13333333, b: 0.18843862, a: 1}
+  m_Color: {r: 0.9254902, g: 0.03137255, b: 0.40784314, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -182,7 +182,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_FontData:
-    m_Font: {fileID: 12800000, guid: 6fad2fdcd4de21a47b57f69de69ed7b9, type: 3}
+    m_Font: {fileID: 12800000, guid: 5f3b1375669ace247ae08998b1b0ea1e, type: 3}
     m_FontSize: 60
     m_FontStyle: 0
     m_BestFit: 0
@@ -194,15 +194,15 @@ MonoBehaviour:
     m_HorizontalOverflow: 1
     m_VerticalOverflow: 1
     m_LineSpacing: 1
-  m_Text: "\n\n\n\nCreado por:\n\nUniversidad Tecnologica de Leon\n\nProfesor:\n\nSanchez
-    Duran Ricardo Miguel\n\ny por los alumnos de EVN:\n\nDepartamento de Integraci\xF3n:\n    
-    \nCardenas Barajas Jose Eduardo\nChavez Solis Mario Alonso\nAranda Mendoza Elsa
-    Georgina\nMonreal Ohrstrom Julia Cristina\nBelmontes Rangel Christopher Ivan\n\nDepartamento
-    de Ilustraci\xF3n/Arte:\n\nTovar Padilla Jesus Guadalupe\nGomez Valadez Danna
-    Marlene\nRivera Esparza Cristian\nEspinosa Munos Laura Odalys\nMunos Padilla
-    Valeria Estefania\n\nDepartamento de Programaci\xF3n:\n\nGama Herrera Natalie
-    Anahi \nGomez Gonzalez Yoari\nValdez Garnica Jose Dolores\nMeza Juarez Edgar
-    Issac\n\n\n"
+  m_Text: "\n\n\nCreado por:\r\n\r\nUniversidad Tecnol\xF3gica de Le\xF3n\r\n\r\nProfesor:\r\n\r\nS\xE1nchez
+    Dur\xE1n Ricardo Miguel\r\n\r\ny por los alumnos de EVN:\r\n\r\nDepartamento
+    de Integraci\xF3n:\r\n     \r\nC\xE1rdenas Barajas Jos\xE9 Eduardo\r\nCh\xE1vez
+    Sol\xEDs Mario Alonso\r\nAranda Mendoza Elsa Georgina\r\nMonreal Ohrstrom Julia
+    Cristina\r\nBelmontes Rangel Christopher Iv\xE1n\r\n\r\nDepartamento de Ilustraci\xF3n/Arte:\r\n\r\nTovar
+    Padilla Jes\xFAs Guadalupe\r\nG\xF3mez Valadez Danna Marlene\r\nRivera Esparza
+    Cristian\r\nEspinosa Mu\xF1os Laura Odalys\r\nMu\xF1os Padilla Valeria Estefan\xEDa\r\n\r\nDepartamento
+    de Programaci\xF3n:\r\n\r\nGama Herrera Natalie Anah\xED \r\nG\xF3mez Gonz\xE1lez
+    Yoari\r\nValdez Garnica Jos\xE9 Dolores\r\nMeza Ju\xE1rez Edgar Issac\r\n"
 --- !u!222 &180419275
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -568,7 +568,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.33748665, g: 0.5508731, b: 0.9056604, a: 1}
+  m_Color: {r: 0, g: 0.1764706, b: 0.45490196, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -576,7 +576,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_FontData:
-    m_Font: {fileID: 12800000, guid: a9d82a63d16afe04e8674dcf0ae454e5, type: 3}
+    m_Font: {fileID: 12800000, guid: 203131e8a1d383441aeeb60577ed7260, type: 3}
     m_FontSize: 52
     m_FontStyle: 0
     m_BestFit: 0
@@ -596,82 +596,6 @@ CanvasRenderer:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1115347342}
-  m_CullTransparentMesh: 1
---- !u!1 &1375590132
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1375590133}
-  - component: {fileID: 1375590135}
-  - component: {fileID: 1375590134}
-  m_Layer: 5
-  m_Name: Panel
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!224 &1375590133
-RectTransform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1375590132}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 2024321186}
-  m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0, y: 0}
-  m_Pivot: {x: 0.5, y: 0.5}
---- !u!114 &1375590134
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1375590132}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 0.392}
-  m_RaycastTarget: 1
-  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
-  m_Maskable: 1
-  m_OnCullStateChanged:
-    m_PersistentCalls:
-      m_Calls: []
-  m_Sprite: {fileID: 10907, guid: 0000000000000000f000000000000000, type: 0}
-  m_Type: 1
-  m_PreserveAspect: 0
-  m_FillCenter: 1
-  m_FillMethod: 4
-  m_FillAmount: 1
-  m_FillClockwise: 1
-  m_FillOrigin: 0
-  m_UseSpriteMesh: 0
-  m_PixelsPerUnitMultiplier: 1
---- !u!222 &1375590135
-CanvasRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1375590132}
   m_CullTransparentMesh: 1
 --- !u!1 &1376152424
 GameObject:
@@ -900,7 +824,6 @@ RectTransform:
   m_LocalScale: {x: 0, y: 0, z: 0}
   m_ConstrainProportionsScale: 0
   m_Children:
-  - {fileID: 1375590133}
   - {fileID: 2087982351}
   m_Father: {fileID: 0}
   m_RootOrder: 2
@@ -943,7 +866,7 @@ RectTransform:
   - {fileID: 1115347343}
   - {fileID: 180419273}
   m_Father: {fileID: 2024321186}
-  m_RootOrder: 1
+  m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
